@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AgentGate
 
 A spend firewall for AI agent payments. Trusted, small, repeated payments
