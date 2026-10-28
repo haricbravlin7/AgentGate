@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AgentGate
 
 A spend firewall for AI agent payments. Trusted, small, repeated payments
@@ -38,3 +39,6 @@ for the risky 5%.
 ## Status
 
 Scaffold only — see TODOs in each file for what's still unimplemented.
+=======
+# AgentGate
+>>>>>>> 97b31530d1eb8c02eb13abe3f39f99062aaf37f9
